@@ -3,6 +3,7 @@
 	desc = "Space is cold, bring a sweater."
 	icon = 'icons/obj/clothing/suits.dmi'
 	icon_state = "sweater"
+	inhand_icon_state = "sweater"
 	worn_icon = 'icons/mob/clothing/suit.dmi'
 	body_parts_covered = CHEST|ARMS
 	cold_protection = CHEST|ARMS
@@ -20,4 +21,6 @@
 		)
 	greyscale_config = /datum/greyscale_config/sweater
 	greyscale_config_worn = /datum/greyscale_config/sweater_worn
-	greyscale_colors = "#44A510"
+	greyscale_colors = "#44A510"greyscale_config_inhand_left = /datum/greyscale_config/sweater_inhand_left
+	greyscale_config_inhand_leftt = /datum/greyscale_config/sweater_inhand_left
+	greyscale_config_inhand_right = /datum/greyscale_config/sweater_inhand_right
