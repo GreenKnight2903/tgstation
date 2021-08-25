@@ -21,6 +21,6 @@
 		)
 	greyscale_config = /datum/greyscale_config/sweater
 	greyscale_config_worn = /datum/greyscale_config/sweater_worn
-	greyscale_colors = "#44A510"greyscale_config_inhand_left = /datum/greyscale_config/sweater_inhand_left
-	greyscale_config_inhand_leftt = /datum/greyscale_config/sweater_inhand_left
+	greyscale_colors = "#44A510"
+	greyscale_config_inhand_left = /datum/greyscale_config/sweater_inhand_left
 	greyscale_config_inhand_right = /datum/greyscale_config/sweater_inhand_right
