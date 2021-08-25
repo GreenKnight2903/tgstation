@@ -283,20 +283,7 @@
 	icon_file = 'icons/obj/items/cleric_mace.dmi'
 	json_config = 'code/datums/greyscale/json_configs/items/cleric_mace_worn_gold.json'
 
-/datum/greyscale_config/sweater
-	name = "turtleneck sweater"
-	icon_file = 'icons/obj/clothing/suits.dmi'
-	json_config = 'code/datums/greyscale/json_configs/sweater.json'
 
-/datum/greyscale_config/sweater_worn
-	name = "turtleneck sweater"
-	icon_file = 'icons/mob/clothing/suit.dmi'
-	json_config = 'code/datums/greyscale/json_configs/sweater_worn.json'
-
-/datum/greyscale_config/sweater_inhand_left
-	name = "Held sweater, Left"
-	icon_file = 'icons/mob/inhands/clothing_lefthand.dmi'
-	json_config = 'code/datums/greyscale/json_configs/sweater_inhand.json'
 
 /datum/greyscale_config/sweater_inhand_right
 	name = "Held sweater, Right"
@@ -392,3 +379,18 @@
 
 /datum/greyscale_config/janicart_upgrade/installed
 	json_config = 'code/datums/greyscale/json_configs/janicart_upgrade_installed.json'
+
+/datum/greyscale_config/sweater
+	name = "turtleneck sweater"
+	icon_file = 'icons/obj/clothing/suits.dmi'
+	json_config = 'code/datums/greyscale/json_configs/sweater.json'
+
+/datum/greyscale_config/sweater_worn
+	name = "turtleneck sweater"
+	icon_file = 'icons/mob/clothing/suit.dmi'
+	json_config = 'code/datums/greyscale/json_configs/sweater_worn.json'
+
+/datum/greyscale_config/sweater_inhand_left
+	name = "Held sweater, Left"
+	icon_file = 'icons/mob/inhands/clothing_lefthand.dmi'
+	json_config = 'code/datums/greyscale/json_configs/sweater_inhand.json'
