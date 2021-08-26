@@ -283,8 +283,6 @@
 	icon_file = 'icons/obj/items/cleric_mace.dmi'
 	json_config = 'code/datums/greyscale/json_configs/items/cleric_mace_worn_gold.json'
 
-
-
 /datum/greyscale_config/sweater_inhand_right
 	name = "Held sweater, Right"
 	icon_file = 'icons/mob/inhands/clothing_righthand.dmi'
