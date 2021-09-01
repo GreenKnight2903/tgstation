@@ -5,6 +5,12 @@
             "icon_state": "sweater_obj",
             "blend_mode": "overlay",
             "color_ids": [ 1 ]
+        },
+        {
+            "type": "icon_state",
+            "icon_state": "sweat_arms",
+            "blend_mode": "overlay",
+            "color_ids": [ 2 ]
         }
     ]
 }
