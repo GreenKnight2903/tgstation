@@ -393,11 +393,23 @@
 	name = "Held sweater, Right"
 	icon_file = 'icons/mob/inhands/clothing_righthand.dmi'
 	json_config = 'code/datums/greyscale/json_configs/sweater_inhand.json'
+
 /datum/greyscale_config/sweater_stripes
 	name = "turtleneck sweater_stripes"
-	icon_file = 'icons/obj/clothing/suits_stripes.dmi'
+	icon_file = 'icons/obj/clothing/suits.dmi'
 	json_config = 'code/datums/greyscale/json_configs/sweater_stripes.json'
-	/datum/greyscale_config/sweater_heart
+
+/datum/greyscale_config/sweater_heart
 	name = "turtleneck sweater_heart"
-	icon_file = 'icons/obj/clothing/suits_heart.dmi'
+	icon_file = 'icons/obj/clothing/suits.dmi'
 	json_config = 'code/datums/greyscale/json_configs/sweater_heart.json'
+
+/datum/greyscale_config/sweater_clown
+	name = "turtleneck sweater_clown"
+	icon_file = 'icons/obj/clothing/suits.dmi'
+	json_config = 'code/datums/greyscale/json_configs/sweater_clown.json'
+
+/datum/greyscale_config/sweater_arms
+	name = "turtleneck sweater_arms"
+	icon_file = 'icons/obj/clothing/suits.dmi'
+	json_config = 'code/datums/greyscale/json_configs/sweater_arms.json'

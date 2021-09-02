@@ -2,7 +2,7 @@
     "sweater": [
         {
             "type": "icon_state",
-            "icon_state": "sweater_obj",
+            "icon_state": "sweater_obj_arms",
             "blend_mode": "overlay",
             "color_ids": [ 1 ]
         }
