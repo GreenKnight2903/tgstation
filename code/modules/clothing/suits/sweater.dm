@@ -5,6 +5,7 @@
 	icon_state = "sweater"
 	inhand_icon_state = "sweater"
 	worn_icon = 'icons/mob/clothing/suit.dmi'
+	flags_1 = IS_PLAYER_COLORABLE_1
 	body_parts_covered = CHEST|ARMS
 	cold_protection = CHEST|ARMS
 	min_cold_protection_temperature = FIRE_SUIT_MIN_TEMP_PROTECT
