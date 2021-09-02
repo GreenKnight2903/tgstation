@@ -409,7 +409,4 @@
 	icon_file = 'icons/obj/clothing/suits.dmi'
 	json_config = 'code/datums/greyscale/json_configs/sweater_clown.json'
 
-/datum/greyscale_config/sweater_arms
-	name = "turtleneck sweater_arms"
-	icon_file = 'icons/obj/clothing/suits.dmi'
-	json_config = 'code/datums/greyscale/json_configs/sweater_arms.json'
+
